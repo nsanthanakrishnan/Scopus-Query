@@ -4,7 +4,7 @@ This script can be use to query Scopus database and download article details usi
 
 ## Citing this work
 
-Narayanan, S., & Antoniou, C. (2022a). Electric cargo cycles - A comprehensive review. *Transport Policy*, 116 , 278–303. doi:10.1016/j.tranpol.2021.12.011 
+Narayanan, S., & Antoniou, C. (2022). Electric cargo cycles - A comprehensive review. *Transport Policy*, 116 , 278–303. doi:10.1016/j.tranpol.2021.12.011 
 
 ## License
 
